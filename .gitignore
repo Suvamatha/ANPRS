@@ -1,0 +1,18 @@
+# Virtual environments
+anpr_env/
+anpr_env_310/
+venv/
+
+# YOLO / ML outputs
+train/
+valid/
+test/
+runs/
+*.pt
+
+# Datasets
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
